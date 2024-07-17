@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Verdadeiro Candolo</h1>
 <h3 align="center">A frontend developer from Brazil who is eager to learn and improve</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
 - 🌱 I’m currently learning **Python**
