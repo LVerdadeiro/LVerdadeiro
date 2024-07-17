@@ -2,9 +2,8 @@
 <h3 align="center">A frontend developer from Brazil who is eager to learn and improve</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lverdadeiro&label=Profile%20views&color=0e75b6&style=flat" alt="lverdadeiro" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap v5.3**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **lucas.candolo@gmail.com**
 
