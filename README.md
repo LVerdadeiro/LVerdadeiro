@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Brazil who is eager to learn and improve</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python Flet**
 
 - 📫 How to reach me **lucas.candolo@gmail.com**
 
