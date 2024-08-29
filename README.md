@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Verdadeiro Candolo</h1>
-<h3 align="center">A frontend developer from Brazil who is eager to learn and improve</h3>
+<h3 align="center">A data analyst from Brazil who is eager to learn and improve</h3>
 
 
-- 🌱 I’m currently learning **Python Flet**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **lucas.candolo@gmail.com**
 
