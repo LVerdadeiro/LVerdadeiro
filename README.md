@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Verdadeiro Candolo</h1>
-<h3 align="center">A backend developer from Brazil who is eager to learn and improve</h3>
+<h3 align="center">A developer from Brazil who is eager to learn and improve</h3>
 
 
 - 🌱 I’m currently learning **SQL**
